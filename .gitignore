@@ -1,5 +1,16 @@
-# Object file
-*.o
+# Eclipse
+.classpath
+.project
+.settings/
 
-# Ada Library Information
-*.ali
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
